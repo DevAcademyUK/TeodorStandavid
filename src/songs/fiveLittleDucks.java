@@ -16,7 +16,7 @@ public class fiveLittleDucks {
                 System.out.println("quack");
                 e--;
             }
-            System.out.println("And only " + i + " little ducks came back.");
+            System.out.println("And only " + i + " little ducks came back asdqasd features branch.");
             i--;
         }
 
