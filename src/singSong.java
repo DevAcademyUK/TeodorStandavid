@@ -14,7 +14,7 @@ public class singSong {
         System.out.println("How many bottles of beer are there on the wall?");
         int bottles = myScanner.nextInt();
 
-        String word = "bottles";
+        String word = "bottles"; //a random comment
         for(int i = bottles; i > 0; i--){
             System.out.println(i + " " + word + " of beer on the wall.");
             System.out.println(i + " " + word + " of beer.");
